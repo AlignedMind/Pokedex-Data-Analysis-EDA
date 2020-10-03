@@ -1,6 +1,6 @@
 # Pokedex_EDA
 
-## Data Science EDA. project on The Complete Pokemon Pokedex
+## Data Science EDA project on The Complete Pokemon Pokedex
 
 Welcome! to my Exploratory Data Analysis project on Pokémon. Pokémon for me growing up was a huge part of my childhood and in many ways, I always sought to be better at the game. One of the many ways I strived to be a better Pokémon trainer included learning and exploring the games internal data values. These values were originally hidden from the player but could be hinted at which category they fell into by a particular in game character. Furthermore, numerically out of the six statistical categories a Pokémon possessed they are allowed 0 - 31 of these values per stat they are known as IV's (Individual Values) IV's are similar to innate potential and represent the potential for that respective attribute.
 
