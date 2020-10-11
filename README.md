@@ -1,4 +1,4 @@
-# Pokemon Pokedex Battle Potential Identifier utilizing K-Means Clustering
+# Pokemon Pokedex Type Identifier utilizing Multiple Linear Regression
 
 ## * Work In Progress *
 
