@@ -1,4 +1,4 @@
-# Pokemon Pokedex Type Identifier utilizing Multiple Linear Regression
+
 
 ## * Work In Progress *
 
