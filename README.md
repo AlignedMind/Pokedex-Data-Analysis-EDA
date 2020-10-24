@@ -28,7 +28,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <summary>Open</summary>
 
 - bulbapedia_webscraper.py: Python Script that scrapes bulbapedia on pokemon to add to the pokedex.
-- pokedex.csv: pokedex pre-clean.
+- bulbapedia_data.csv: pokedex pre-clean.
 - cleaned_pokedex.csv: pokedex post-clean.
 - Pokemon_Pokedex_EDA.ipynb: jupyter notebook on data anaylsis.
 
