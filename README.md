@@ -24,6 +24,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
 
 <details>
     <summary>Open</summary>
+    
         1. **bulbapedia_webscraper.py**:
         2. **cleaned_pokedex.csv**:
         2. **Pokemon_Pokedex_EDA.ipynb**:
