@@ -14,18 +14,25 @@ By performing exploratory data analysis, I discover which bias the developers ha
 ## Table of Contents
 
 <details>
-    <summary>Open/Close</summary>
-
+    <summary>Open</summary>
         1. File Descriptions
         2. Technologies Used
-        3. Structure
         4. Executive Summary
+</details>
+
+## File Descriptions
+
+<details>
+    <summary>Open</summary>
+        1. **bulbapedia_webscraper.py**:
+        2. **cleaned_pokedex.csv**:
+        2. **Pokemon_Pokedex_EDA.ipynb**:
 </details>
 
 ## Technologies Utilized
 
 <details>
-    <summary>Open/Close</summary>
+    <summary>Open</summary>
 
         1. Python3
         2. Pandas
@@ -36,7 +43,20 @@ By performing exploratory data analysis, I discover which bias the developers ha
         7. Beautiful Soup
 </details>
 
+ ## Executive Summary
 
+### Webscraping Beautiful Soup
+<details>
+    <summary>Open</summary>
+
+        1. Python3
+        2. Pandas
+        3. Matplotlib
+        4. Seaborn
+        5. ski-kit learn
+        6. Numpy
+        7. Beautiful Soup
+</details>
 
   
 
