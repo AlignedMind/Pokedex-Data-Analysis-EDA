@@ -22,6 +22,20 @@ By performing exploratory data analysis, I discover which bias the developers ha
         4. Executive Summary
 </details>
 
+## Technologies Utilized
+
+<details>
+    <summary>Open/Close</summary>
+
+        1. Python3
+        2. Pandas
+        3. Matplotlib
+        4. Seaborn
+        5. ski-kit learn
+        6. Numpy
+        7. Beautiful Soup
+</details>
+
 
 
   
