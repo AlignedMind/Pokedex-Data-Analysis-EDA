@@ -18,7 +18,8 @@ By performing exploratory data analysis, I discover which bias the developers ha
 
         1. File Descriptions
         2. Technologies Used
-        4. Executive Summary
+        3. Executive Summary
+        
 </details>
 
 ## File Descriptions
