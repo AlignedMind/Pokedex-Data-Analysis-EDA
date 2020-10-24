@@ -54,7 +54,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
 ### Webscraping Beautiful Soup
 <details>
     <summary>Open</summary>
-<p>### webscraping</p>
+    <h3>Webscraping</h3>
         
 </details>
 
