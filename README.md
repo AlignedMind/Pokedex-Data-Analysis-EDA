@@ -4,7 +4,7 @@
 
 ## Business Case 
 
-"Pokémon". This database is consistently evolving as new species are created by the talented people over at Game Freak and Nintendo.
+The Pokemon Pokedex is a fictional digital database that holds data on species called "Pokemon".This database is consistently evolving as new species are created by the talented people over at Game Freak and Nintendo.
 
 With each game release there has been notable adjustments to the core gameplay. Primarily the inclusion of new features and new Pokémon. In the most recent years there has been a notable decline in new species, and a trend of revisiting old Pokémon and creating variations from them that vary by region.
 
