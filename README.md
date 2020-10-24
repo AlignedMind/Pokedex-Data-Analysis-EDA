@@ -24,31 +24,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
            - 1.2.2 Removing Duplicate Rows
            - 1.3.3 Replacing Column Values
            - 1.3.4 Appending Missing Rows
-        1.4 Feature Engineering
-           - 1.4.1 Label Encoding Pokemon Types
-           - 1.4.2 Creating Labels to Categorize Pokemon on Base Stat Tier
-           - 1.4.3 Creating Features by Joining stat from archtypes.
-        1.5 Looking for Correlations
-            1.5.1 Describing Data
-        1.6 Early Data Visualization
-            1.6.1 Health Stat Distributions
-            1.6.2 Attack Stat Distributions
-            1.6.3 Defense Stat Disributions
-            1.6.4 Sp. Attack Stat Disributions
-            1.6.5 Sp. Defense Stat Disributions
-            1.6.6 Speed Stat Disributions
-        1.7 Further Data Visualizations
-            1.7.1 Histogram Distribution of Stat Features
-            1.7.2 Scatter Matrix of the three Primary Stat Correlations to Base Stat.
-            1.7.3 PairGrid of Archtype 
-            1.7.4 Heatmap of features
-        1.8 Data Visualization of Strongest Correlations to Base Stat.
-            1.8.1 Physical Sweeper
-            1.8.2 Special Sweeper
-            1.8.3 Wall
-            1.8.4 Physical Tank
-            1.8.5 Special Tank
-        1.9 Visualization of the total number of pokemon introduced in each Generation.
+  
 
 
 
