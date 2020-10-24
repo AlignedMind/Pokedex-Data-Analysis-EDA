@@ -16,7 +16,12 @@ By performing exploratory data analysis, I discover which bias the developers ha
 1. File Descriptions
 2. Technologies Used
 3. Jupyter Notebook Structure
-4. 
+4. Executive Summary
+    1. Webscraping Data Collection(Beautiful Soup)
+    2. Import Libraries
+    3. DataFrame Cleaning and Aggregation
+    4.
+
 
 
 
