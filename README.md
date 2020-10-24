@@ -18,12 +18,13 @@ By performing exploratory data analysis, I discover which bias the developers ha
 3. Jupyter Notebook Structure
 4. Executive Summary
     1.1 Webscraping Data Collection (Beautiful Soup)
-       - 1.2 Import Libraries
-       - 1.3 DataFrame Cleaning and Aggregation
-           - 1.3.1 Replacing NaN Values
-           - 1.2.2 Removing Duplicate Rows
-           - 1.3.3 Replacing Column Values
-           - 1.3.4 Appending Missing Rows
+    * 1.2 Import Libraries
+    * 1.3 DataFrame Cleaning and Aggregation
+    * 1.3.1 Replacing NaN Values
+    * 1.2.2 Removing Duplicate Rows
+    * 1.3.3 Replacing Column Values
+    * 1.3.4 Appending Missing Rows
+    
   
 
 
