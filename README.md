@@ -13,6 +13,8 @@ By performing exploratory data analysis, I discover which bias the developers ha
 
 ## Directory
 
+1. File Descriptions
+
 
 
 
