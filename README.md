@@ -12,7 +12,11 @@ With each game release there has been notable adjustments to the core gameplay. 
 By performing exploratory data analysis, I discover which bias the developers have had in the development of these pokemon. Utilizing features that correspond to the core statistics that showcases a pokemons combat potential, I began to see which types were favorited and which ones that were not. In these discoveries I saw the affinities that lie within particular pokemon types. This could lead to potential type combinations that do not exist currently and can allow for further innovation in the species development process.
 
 ## Directory
-
+<details>
+<summary>File Descriptions</summary>
+    + item 1
+        + item 2
+</details>
 1. File Descriptions
 2. Technologies Used
 3. Jupyter Notebook Structure
@@ -25,7 +29,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
         * 1.3.3 Replacing Column Values
         * 1.3.4 Appending Missing Rows
     2. 1.4 Feature Engineering
-        * 1.4.1 Label Encoding Pokemon Types
+        * 1.4.1
         * 1.4.2 Creating Labels to Categorize Pokemon on Base Stat Tier            * 1.4.3 Creating Features by Joining stat from archtypes.
 
   
