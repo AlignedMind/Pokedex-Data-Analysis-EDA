@@ -14,6 +14,9 @@ By performing exploratory data analysis, I discover which bias the developers ha
 ## Directory
 
 1. File Descriptions
+2. Technologies Used
+3. Jupyter Notebook Structure
+4. 
 
 
 
