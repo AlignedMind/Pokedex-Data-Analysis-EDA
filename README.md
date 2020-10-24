@@ -19,7 +19,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
         1. File Descriptions
         2. Technologies Used
         3. Executive Summary
-        
+
 </details>
 
 ## File Descriptions
@@ -27,10 +27,10 @@ By performing exploratory data analysis, I discover which bias the developers ha
 <details>
     <summary>Open</summary>
 
-        1. bulbapedia_webscraper.py: Python Script that scrapes bulbapedia on pokemon to add to the pokedex.
-        2. pokedex.csv: pokedex pre-clean.
-        3. cleaned_pokedex.csv: pokedex post-clean.
-        4. Pokemon_Pokedex_EDA.ipynb: jupyter notebook on data anaylsis.
+- bulbapedia_webscraper.py: Python Script that scrapes bulbapedia on pokemon to add to the pokedex.
+- pokedex.csv: pokedex pre-clean.
+- cleaned_pokedex.csv: pokedex post-clean.
+- Pokemon_Pokedex_EDA.ipynb: jupyter notebook on data anaylsis.
 
 </details>
 
@@ -54,13 +54,6 @@ By performing exploratory data analysis, I discover which bias the developers ha
 <details>
     <summary>Open</summary>
 
-        1. Python3
-        2. Pandas
-        3. Matplotlib
-        4. Seaborn
-        5. ski-kit learn
-        6. Numpy
-        7. Beautiful Soup
 </details>
 
   
