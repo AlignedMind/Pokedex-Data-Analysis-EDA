@@ -1,6 +1,6 @@
 
 
-# * Nintendo/GameFreak Pokemon Pokedex EDA*
+# *Nintendo/GameFreak Pokemon Pokedex EDA*
 
 ## Business Case 
 
