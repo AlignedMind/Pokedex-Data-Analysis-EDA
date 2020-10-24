@@ -15,6 +15,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
 
 <details>
     <summary>Open/Close</summary>
+
         1. File Descriptions
         2. Technologies Used
         3. Structure
