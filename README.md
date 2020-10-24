@@ -24,6 +24,9 @@ By performing exploratory data analysis, I discover which bias the developers ha
         * 1.2.2 Removing Duplicate Rows
         * 1.3.3 Replacing Column Values
         * 1.3.4 Appending Missing Rows
+    2. 1.4 Feature Engineering
+        * 1.4.1 Label Encoding Pokemon Types
+        * 1.4.2 Creating Labels to Categorize Pokemon on Base Stat Tier            * 1.4.3 Creating Features by Joining stat from archtypes.
 
   
 
