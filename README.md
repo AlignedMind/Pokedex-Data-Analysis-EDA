@@ -20,14 +20,14 @@ By performing exploratory data analysis, I discover which bias the developers ha
     1.1 Webscraping Data Collection (Beautiful Soup)
         1.2 Import Libraries
         1.3 DataFrame Cleaning and Aggregation
-            1.3.1 Replacing NaN Values
-            1.2.2 Removing Duplicate Rows
-            1.3.3 Replacing Column Values
-            1.3.4 Appending Missing Rows
+           - 1.3.1 Replacing NaN Values
+           - 1.2.2 Removing Duplicate Rows
+           - 1.3.3 Replacing Column Values
+           - 1.3.4 Appending Missing Rows
         1.4 Feature Engineering
-            1.4.1 Label Encoding Pokemon Types
-            1.4.2 Creating Labels to Categorize Pokemon on Base Stat Tier
-            1.4.3 Creating Features by Joining stat from archtypes.
+           - 1.4.1 Label Encoding Pokemon Types
+           - 1.4.2 Creating Labels to Categorize Pokemon on Base Stat Tier
+           - 1.4.3 Creating Features by Joining stat from archtypes.
         1.5 Looking for Correlations
             1.5.1 Describing Data
         1.6 Early Data Visualization
