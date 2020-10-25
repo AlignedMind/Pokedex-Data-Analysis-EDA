@@ -55,7 +55,10 @@ By performing exploratory data analysis, I discover which bias the developers ha
 <details>
     <summary>Open</summary>
     <h3>Webscraping</h3>
+    <h4>Goal</h4>
     <p>The goal set for this project is to produce value to game freak and nintendo. This can be acomplished by identifying their bias within the species development process and locating the untapped potential of species type combinations. The primary hypothesis was "Do pokemon types influence stat distributions ?" The secondary question was " Are those pokemon types more favorable when it comes to stat distributions " The final question being " How can I express stat combinations as roles that pokemon play to categorize these types functionality in a real world scenerio " e.g combat is one of the game core mechanics so a role one pokemon serves in combat can be described as a "physical sweeper" a stat combination of Physical attack and speed.</p>
+    <h4>Features Scraped</h4>
+    
         
 </details>
 
