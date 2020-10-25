@@ -74,8 +74,50 @@ By performing exploratory data analysis, I discover which bias the developers ha
         </ul>
 </details>
 
-  
-
+### Webscraping Beautiful Soup
+<details>
+    <summary>Open</summary>
+    <h3>Webscraping</h3>
+    <h4>Goal</h4>
+    <p>The goal set for this project is to produce value to game freak and nintendo. This can be acomplished by identifying their bias within the species development process and locating the untapped potential of species type combinations. The primary hypothesis was "Do pokemon types influence stat distributions ?" The secondary question was " Are those pokemon types more favorable when it comes to stat distributions " The final question being " How can I express stat combinations as roles that pokemon play to categorize these types functionality in a real world scenerio " e.g combat is one of the game core mechanics so a role one pokemon serves in combat can be described as a "physical sweeper" a stat combination of Physical attack and speed</p>
+    <h4>Features Scraped</h4>
+        <ul>
+        <li>Dex No</li> 
+        <li>Name</li>
+        <li>Generation</li>
+        <li>Primary Type</li>
+        <li>Secondary Type</li>
+        <li>Health</li>
+        <li>Attack</li>
+        <li>Defense</li>
+        <li>Sp. Attack</li>
+        <li>Sp. Defense</li>
+        <li>Speed</li>
+        <li>BST</li>
+        </ul>
+</details>
+### Early EDA
+<details>
+    <summary>Open</summary>
+    <h3>Data Cleaning</h3>
+    <h4></h4>
+    <p>The goal set for this project is to produce value to game freak and nintendo. This can be acomplished by identifying their bias within the species development process and locating the untapped potential of species type combinations. The primary hypothesis was "Do pokemon types influence stat distributions ?" The secondary question was " Are those pokemon types more favorable when it comes to stat distributions " The final question being " How can I express stat combinations as roles that pokemon play to categorize these types functionality in a real world scenerio " e.g combat is one of the game core mechanics so a role one pokemon serves in combat can be described as a "physical sweeper" a stat combination of Physical attack and speed</p>
+    <h4>Features Scraped</h4>
+        <ul>
+        <li>Dex No</li> 
+        <li>Name</li>
+        <li>Generation</li>
+        <li>Primary Type</li>
+        <li>Secondary Type</li>
+        <li>Health</li>
+        <li>Attack</li>
+        <li>Defense</li>
+        <li>Sp. Attack</li>
+        <li>Sp. Defense</li>
+        <li>Speed</li>
+        <li>BST</li>
+        </ul>
+</details>
 
 
 
