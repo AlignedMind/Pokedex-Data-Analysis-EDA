@@ -88,8 +88,11 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <h3>Early Eda</h3>
     <h4>Part 2</h4>
     <p>The newly cleaned pokedex in addition with the added features can present some interesting insights. With my intial hypothesis to see if species type influence stat distributions, I plot each type compared to one of the primary features.
-    <h5>Attack Violin Plot Distributions of all 18 Types</h5>
+    <h5>Attack Violin Plot Distributions of all 18 types</h5>
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/attack_violin.png?raw=true" alt="Attack Violin Plot">
+    The median values for Fighting and Dragon types are the highest amongst all others types with no major outliers. So I decided to inspect those further next with the speed distribution. This is due to those two features being the combination for the created feature "Physical Sweeper".
+    <h5>Speed Violin Plot Distributions of all 18 types</h5>
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/attack_violin.png?raw=true" alt="Speed Violin Plot">
 </p>
 
 </details>
