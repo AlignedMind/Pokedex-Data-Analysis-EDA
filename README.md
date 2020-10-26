@@ -87,6 +87,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <summary>Open</summary>
     <h3>Early Eda</h3>
     <h4>Part 2</h4>
+    <title>Attack Violin Plot Distributions of all 18 Types.</title>
     <p>The newly cleaned pokedex in addition with the added features can present some interesting insights. With my intial hypothesis to see if species type influence stat distributions, I plot each type compared to one of the primary features.</p>
 ![](https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/attack_violin.png)
 </details>
