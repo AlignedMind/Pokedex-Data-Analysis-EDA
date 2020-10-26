@@ -76,17 +76,15 @@ By performing exploratory data analysis, I discover which bias the developers ha
 
 ### Data Cleaning and Early EDA
 <details>
-    <summary>Open</summary>
+    <summary>Part 1</summary>
     <h3>Data Cleaning</h3>
-    <h4>Part 1</h4>
     <p>The Data scraped presented a shape of 958 rows and 12 columns, due to messy nature of scraped data I had to performing some cleaning. This included filling the NaN values, removing duplicates, replacing column values, and appending missing rows.</p>
     <p>The cleaned pokedex (dataset) now has a shape of 892 rows and 19 columns. The added columns are a combination of features that categorize and classify species roles in combat.</p>
 </details>
 
 <details>
-    <summary>Open</summary>
+    <summary>Part 2</summary>
     <h3>Early Eda</h3>
-    <h4>Part 2</h4>
     <p>The newly cleaned pokedex in addition with the added features can present some interesting insights. With my intial hypothesis to see if species type influence stat distributions, I plot each type compared to one of the primary features.
     <h5>Attack Violin Plot Distributions of all 18 types</h5>
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/attack_violin.png?raw=true" alt="Attack Violin Plot">
