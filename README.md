@@ -55,9 +55,9 @@ By performing exploratory data analysis, I discover which bias the developers ha
 <details>
     <summary>Open</summary>
     <h3>Webscraping</h3>
-    <h4><b>Goal</b></h4>
+    <h4>Goal</h4>
     <p>The goal set for this project is to produce value for game freak and nintendo pokemon development team. This can be acomplished by identifying their bias within the species development process and locating the untapped potential of species type combinations. The primary hypothesis was "Do pokemon types influence stat distributions ?" The secondary question was "Are those pokemon types more favorable when it comes to stat distributions " The final question being "How can I express stat combinations as roles that pokemon play to categorize these types functionality in a real world scenerio" e.g combat is one of the game core mechanics so a role one pokemon serves in combat can be described as a "physical sweeper" a stat combination of Physical attack and speed.</p>
-    <h4><b>Features Scraped</b></h4>
+    <h4>Features Scraped</h4>
         <ul>
         <li>Dex No</li> 
         <li>Name</li>
@@ -74,13 +74,21 @@ By performing exploratory data analysis, I discover which bias the developers ha
         </ul>
 </details> 
 
-### Early EDA
+### Data Cleaning and Early EDA
 <details>
     <summary>Open</summary>
     <h3>Data Cleaning</h3>
-    <h4></h4>
-    <p>The Data scraped presented 958 rows and 12 columns, due to messy nature of scraped data</h4>
+    <h4>Part 1</h4>
+    <p>The Data scraped presented a shape of 958 rows and 12 columns, due to messy nature of scraped data I had to performing some cleaning. This included filling the NaN values, removing duplicates, replacing column values, and appending missing rows.</p>
+    <p>The cleaned pokedex (dataset) now has a shape of 892 rows and 19 columns. The added columns are a combination of features that categorize and classify species roles in combat.</p>
+</details>
 
+<details>
+    <summary>Open</summary>
+    <h3>Early Eda</h3>
+    <h4>Part 2</h4>
+    <p>The newly cleaned pokedex in addition with the added features can present some interesting insights. With my intial hypothesis to see if species type influence stat distributions, I plot each type compared to one of the primary features.</p>
+    ![Image of Violin Plot](https://octodex.github.com/images/yaktocat.png)
 </details>
 
 
