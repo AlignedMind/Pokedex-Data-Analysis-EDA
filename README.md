@@ -95,6 +95,12 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <h5>Physical Sweeper Plot of all 18 types</h5>
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/ps_barplot.png?raw=true" alt="Physical Sweeper Bar Plot">
     The Dragon, Fighting, Fire and Electric are all types that were previously identified for having high attack, high speed, or a combination of both. I want to further explore this data to see if there is a trend. Particularly types having high affinities in the features I created that comprise of stat combinations.
+    <h5>Special Sweeper Plot of all 18 types</h5>
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/ss_barplot.png?raw=true" alt="Special Sweeper Bar Plot">
+    <h5>Wall Bar Plot of all 18 types</h5>
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/wall_barplot.png?raw=true" alt="Wall Bar Plot">
+    <h5>Physical Tank Bar Plot of all 18 types</h5>
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/pt_barplot.png?raw=true" alt="Physical Tank Bar Plot">
 </p>
 
 </details>
