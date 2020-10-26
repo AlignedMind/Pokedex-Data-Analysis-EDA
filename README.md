@@ -101,6 +101,8 @@ By performing exploratory data analysis, I discover which bias the developers ha
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/wall_barplot.png?raw=true" alt="Wall Bar Plot">
     <h5>Physical Tank Bar Plot of all 18 types</h5>
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/pt_barplot.png?raw=true" alt="Physical Tank Bar Plot">
+    <h5>Special Tank Bar Plot of all 18 types</h5>
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/st_barplot.png?raw=true" alt="Special Tank Bar Plot">
 </p>
 
 </details>
