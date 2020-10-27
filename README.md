@@ -77,7 +77,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
 ### Data Cleaning and Early EDA
 <details>
     <summary>Part 1</summary>
-    <h3>Data Cleaning</h3>
+    <h3>Data Cleaning and Feature Engineering</h3>
     <p>The Data scraped presented a shape of 958 rows and 12 columns, due to messy nature of scraped data I had to performing some cleaning. This included filling the NaN values, removing duplicates, replacing column values, and appending missing rows.</p>
     <p>The cleaned pokedex (dataset) now has a shape of 892 rows and 19 columns. The added columns are a combination of features that categorize and classify species roles in combat.</p>
 
