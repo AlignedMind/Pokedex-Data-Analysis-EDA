@@ -103,11 +103,13 @@ By performing exploratory data analysis, I discover which bias the developers ha
     A "Wall" represents a species Health, Defense and Sp. Defense values. Dragon makes another appearance. So far we have represented all of the possible stat values and Dragon has appeared. However lets explore the two remaining arch-types for a through anaylsis.
     <h5>Physical Tank Bar Plot of all 18 types</h5>
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/pt_barplot.png?raw=true" alt="Physical Tank Bar Plot">
-    Dragon rounds out the top 5.
+    Dragon again rounds out the top 5.
     <h5>Special Tank Bar Plot of all 18 types</h5>
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/st_barplot.png?raw=true" alt="Special Tank Bar Plot">
 </p>
-    Dragon makes another appearance
+    In this last plot Dragon again rounds out the upper third of the bar plot. I collected the data based on the type placement and trends. To create a new dataframe with those findings.
+    <h5>Type Plotting against Favorable and Unfavorable feature.</h5>
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/point_plo.png?raw=true" alt="PairGrid">
 </details>
 
 
