@@ -135,7 +135,9 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <p>This question was an interesting one to answer as select types appear in the upper third of the stat distributions. Notably Dragon, Ice, Electric, Steel, Rock, and Fire. These types represent high stat distributions and more appearances in the favorable third, less while showing up less in the unfavorable third of the barplots. Dragon type being the only exception, being that they do not make any appearance other than in favorable. This leads me to the "balanced" types those are types that make equal appearances in both favorable and unfavorable those are, Ground, Flying, Fairy, Fighting, and Psychic. Then they're the unfavorable, those of which I believe can be explored further by the GameFreak. These types include, Poison, Normal, Grass, Bug, Ghost, and Dark. Then there is Water the only type that is neither favorable or unfavorable.</p>
     <h4>"What suggestions could be proposed from the findings on this dataset"</h4>
     <p>When exploring this data and understanding the bias, trends and distribution of data I began to look more towards the amount of pokemon released each generation.</p>
+    <div>
     <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/pokedex_count.png?raw=true" alt="Pokedex Count">
+    </div>
     I saw that they was a trend of rise and fall with the introduction of new species. After generation five there was a major decline and a stagnation in the number of new pokemon released. Which leads me to showcase those pokemon that have unfavorable stat distributions, this analysis showcased that types influence stats and those stats impact how well a pokemon can perform in battle. Poison, Normal, Grass, Bug, Ghost, and Dark pokemon should be more heavily focused on perhaps combining types that are unfavorable and those that are favorable.
     <details>
     <summary>Part 5</summary>
