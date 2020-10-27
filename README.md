@@ -83,7 +83,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
 
   <h4>Added Features Described</h4>
         <ul>
-        <li>Physical Sweeper : Attack + Speed</li> 
+        <li><b>Physical Sweeper</b> : Attack + Speed</li> 
         <li>Special Sweeper : Special Attack + Speed</li>
         <li>Wall: Health + Defense + Special Defense</li>
         <li>Special Tank: Special Attack + Special Defense</li>
