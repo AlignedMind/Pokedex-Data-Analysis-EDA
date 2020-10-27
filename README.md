@@ -131,7 +131,9 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <h4>Do pokemon types influence stat distributions ?</h4>
     <p>
     After evaluating the data and you can see that pokemon types do heavily influence stat distributions. The Development team at Game Freak heavily favorites <b>Dragon</b> type pokemon where as they do not favor <b>Bug</b> type pokemon. <b>Water</b> type they appear to be indifferent on as they have no favorable or unfavorable arch-types based on median values.
-     The secondary question was "Are those pokemon types more favorable when it comes to stat distributions " The final question being "How can I express stat combinations as roles that pokemon play to categorize these types functionality in a real world scenerio"</p>
+    <h4>Are those pokemon types more favorable when it comes to stat distributions</h4>
+    <p>This question was an interesting one to answer as select types appear in the upper third of the stat distributions. Notable Dragon, Ice, Electric, Steel, Rock, and Fire. These types represent high stat distributions and more appearances in the favorable third, less while showing up less in the unfavorable third of the barplots. Dragon type being the only exception, being that they do not make any appearance other than in favorable. This leads me to the "balanced" types those are types that make equal appearances in both favorable and unfavorable those are, Ground, Fairy, Fighting, and Psychic. Then they're the unfavorable, those of which I believe can be explored further by the GameFreak. These types include, Poison, Normal, Grass, Bug, Ghost, and Dark</p>
+     
 </details>
 
 
