@@ -85,9 +85,9 @@ By performing exploratory data analysis, I discover which bias the developers ha
         <ul>
         <li><b>Physical Sweeper</b> : Attack + Speed</li> 
         <li><b>Special Sweeper</b>: Special Attack + Speed</li>
-        <li><b>Wall: Health + Defense</b> + Special Defense</li>
-        <li><b>Special Tank: Special Attack</b> + Special Defense</li>
-        <li><b>Physical Tank: Attack + Defense</b></li>
+        <li><b>Wall</b>: Health + Defense + Special Defense</li>
+        <li><b>Special Tank</b>: Special Attack + Special Defense</li>
+        <li><b>Physical Tank</b>: Attack + Defense</li>
         </ul>
 </details>
 
