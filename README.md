@@ -125,6 +125,15 @@ By performing exploratory data analysis, I discover which bias the developers ha
 <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/point_plot.png?raw=true" alt="PairGrid">
 </details>
 
+<details>
+    <summary>Part 4</summary>
+    <h3>Summarizing Findings</h3>
+    <h4>Do pokemon types influence stat distributions ?</h4>
+    <p>
+    After evaluating the data and you can see that pokemon types do heavily influence stat distributions. The Development team at Game Freak heavily favorites <b>Dragon</b> type pokemon where as they do not favor <b>Bug</b> type pokemon. <b>Water</b> type they appear to be indifferent on as they have no favorable or unfavorable arch-types based on median values.
+     The secondary question was "Are those pokemon types more favorable when it comes to stat distributions " The final question being "How can I express stat combinations as roles that pokemon play to categorize these types functionality in a real world scenerio"</p>
+</details>
+
 
 
     
