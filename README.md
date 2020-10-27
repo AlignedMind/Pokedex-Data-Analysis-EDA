@@ -139,6 +139,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/pokedex_count.png?raw=true" alt="Pokedex Count">
     </div>
     I saw that they was a trend of rise and fall with the introduction of new species. After generation five there was a major decline and a stagnation in the number of new pokemon released. Which leads me to showcase those pokemon that have unfavorable stat distributions, this analysis showcased that types influence stats and those stats impact how well a pokemon can perform in battle. Poison, Normal, Grass, Bug, Ghost, and Dark pokemon should be more heavily focused on perhaps combining types that are unfavorable and those that are favorable.
+</details>
     <details>
     <summary>Part 5</summary>
     <h3>Closing Thoughts</h3>
