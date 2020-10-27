@@ -109,7 +109,7 @@ By performing exploratory data analysis, I discover which bias the developers ha
 </p>
     In this last plot Dragon again rounds out the upper third of the bar plot. I collected the data based on the type placement and trends. To create a new dataframe with those findings.
     <h5>Type Plotting against Favorable and Unfavorable feature.</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/point_plo.png?raw=true" alt="PairGrid">
+<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/point_plot.png?raw=true" alt="PairGrid">
 </details>
 
 
