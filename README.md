@@ -144,9 +144,6 @@ By performing exploratory data analysis, I discover which bias the developers ha
     <summary>Part 5</summary>
     <h3>Closing Thoughts</h3>
     <p> This project I hope can produce value for GameFreak and Nintendo when developing their next game. I seek to revisit this project and performing machine learning on the features. To perhaps predict base stat distributions on unreleased pokemon by exploring type combinations using MLR or Neural Networks to predict what stats can be increased for each type to shift them into a more favorable position, while not over powering them like dragon types have been and currently are. 
-    
-
-    corey is the goat.
     </p>
 </details>
 
